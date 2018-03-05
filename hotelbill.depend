@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520262641 source:c:\users\nandu\documents\codeblocks projects\hotelbill\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
