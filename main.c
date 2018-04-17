@@ -84,27 +84,27 @@ main()
             break;
         case 2:
             printf("Malai Kofta\n");
-            starterprice=180;
+            mainprice=180;
             nanprice=nan*10;
             break;
         case 3:
             printf("Mix Veg Curry\n");
-            starterprice=130;
+            mainprice=130;
             nanprice=nan*10;
             break;
         case 4:
             printf("Palak Paneer\n");
-            starterprice=150;
+            mainprice=150;
             nanprice=nan*10;
             break;
         case 5:
             printf("Navaratan Kurma\n");
-            starterprice=145;
+            mainprice=145;
             nanprice=nan*10;
             break;
         case 0:
             printf("No item added\n");
-            starterprice=0;
+            mainprice=0;
             nanprice=nan*10;
             break;
         }
